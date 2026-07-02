@@ -1,0 +1,201 @@
+Date,SKU,Product Name,Category,Region,Forecast Demand,Actual Sales,Opening Stock,Production Qty,Closing Stock
+2026-02-05,P002,Keyboard,Accessories,North,225,192,175,328,311
+2026-01-08,P009,Router,Networking,North,289,277,266,132,121
+2026-05-24,P004,Monitor,Electronics,South,438,435,358,127,50
+2026-03-13,P009,Router,Networking,North,629,496,279,703,486
+2026-02-09,P003,Mouse,Accessories,South,914,855,224,384,0
+2026-04-02,P006,Scanner,Office Equipment,East,304,223,244,199,220
+2026-05-18,P010,Camera,Electronics,North,470,340,423,570,653
+2026-06-08,P007,Tablet,Electronics,East,280,266,200,743,677
+2026-06-19,P010,Camera,Electronics,South,396,367,85,146,0
+2026-04-08,P005,Printer,Office Equipment,East,281,225,493,203,471
+2026-04-01,P008,Headphones,Accessories,South,850,781,133,479,0
+2026-02-13,P005,Printer,Office Equipment,South,918,678,361,750,433
+2026-06-26,P003,Mouse,Accessories,South,673,568,188,755,375
+2026-03-22,P006,Scanner,Office Equipment,West,986,718,167,132,0
+2026-03-22,P005,Printer,Office Equipment,South,267,213,340,835,962
+2026-03-09,P008,Headphones,Accessories,South,605,587,284,246,0
+2026-05-30,P004,Monitor,Electronics,West,962,960,325,369,0
+2026-05-11,P010,Camera,Electronics,West,608,517,162,241,0
+2026-02-09,P002,Keyboard,Accessories,South,973,705,490,212,0
+2026-06-02,P007,Tablet,Electronics,West,810,583,247,490,154
+2026-01-30,P009,Router,Networking,East,457,321,398,838,915
+2026-04-27,P006,Scanner,Office Equipment,North,314,256,272,261,277
+2026-01-28,P005,Printer,Office Equipment,East,712,693,141,619,67
+2026-02-11,P009,Router,Networking,North,823,626,128,482,0
+2026-04-03,P010,Camera,Electronics,East,531,496,59,214,0
+2026-01-21,P004,Monitor,Electronics,North,259,211,499,680,968
+2026-02-02,P008,Headphones,Accessories,West,270,257,442,228,413
+2026-04-19,P009,Router,Networking,South,369,291,320,721,750
+2026-04-13,P009,Router,Networking,East,973,783,415,419,51
+2026-02-27,P008,Headphones,Accessories,North,729,625,111,353,0
+2026-01-02,P006,Scanner,Office Equipment,North,221,183,351,325,493
+2026-01-19,P001,Laptop,Electronics,South,434,320,66,438,184
+2026-02-03,P005,Printer,Office Equipment,West,885,867,159,652,0
+2026-01-25,P004,Monitor,Electronics,North,684,684,258,294,0
+2026-01-14,P007,Tablet,Electronics,North,562,501,260,578,337
+2026-03-05,P001,Laptop,Electronics,South,612,514,459,211,156
+2026-02-16,P004,Monitor,Electronics,East,749,638,121,532,15
+2026-01-26,P008,Headphones,Accessories,North,455,337,276,663,602
+2026-02-12,P009,Router,Networking,West,215,161,435,342,616
+2026-01-16,P008,Headphones,Accessories,South,692,538,492,510,464
+2026-03-15,P007,Tablet,Electronics,West,202,165,185,565,585
+2026-03-17,P009,Router,Networking,South,877,862,129,294,0
+2026-03-22,P001,Laptop,Electronics,North,793,743,327,162,0
+2026-02-10,P001,Laptop,Electronics,North,798,680,307,643,270
+2026-01-18,P009,Router,Networking,South,282,220,85,709,574
+2026-06-02,P007,Tablet,Electronics,North,322,297,176,692,571
+2026-05-25,P010,Camera,Electronics,East,283,251,386,697,832
+2026-03-03,P005,Printer,Office Equipment,East,409,371,416,421,466
+2026-04-28,P007,Tablet,Electronics,East,334,318,380,407,469
+2026-01-26,P002,Keyboard,Accessories,North,209,204,368,676,840
+2026-03-31,P009,Router,Networking,North,418,356,185,235,64
+2026-05-20,P004,Monitor,Electronics,East,578,476,130,548,202
+2026-03-18,P010,Camera,Electronics,North,869,612,391,667,446
+2026-05-22,P003,Mouse,Accessories,South,470,358,104,860,606
+2026-02-22,P005,Printer,Office Equipment,East,488,394,417,451,474
+2026-01-24,P009,Router,Networking,West,700,553,483,152,82
+2026-02-03,P005,Printer,Office Equipment,East,245,171,220,889,938
+2026-04-20,P003,Mouse,Accessories,North,959,897,332,822,257
+2026-04-05,P002,Keyboard,Accessories,South,277,212,329,136,253
+2026-01-11,P007,Tablet,Electronics,East,330,235,207,473,445
+2026-04-01,P004,Monitor,Electronics,West,898,755,391,205,0
+2026-02-15,P010,Camera,Electronics,West,967,755,171,266,0
+2026-06-21,P001,Laptop,Electronics,South,383,362,220,521,379
+2026-04-08,P005,Printer,Office Equipment,North,363,354,409,210,265
+2026-03-31,P008,Headphones,Accessories,East,427,349,468,571,690
+2026-04-13,P004,Monitor,Electronics,East,428,305,387,297,379
+2026-05-11,P005,Printer,Office Equipment,West,271,224,229,756,761
+2026-02-15,P009,Router,Networking,East,539,384,109,367,92
+2026-03-22,P001,Laptop,Electronics,West,311,293,272,453,432
+2026-02-18,P010,Camera,Electronics,East,723,535,247,690,402
+2026-05-18,P001,Laptop,Electronics,South,925,870,50,632,0
+2026-06-09,P006,Scanner,Office Equipment,East,641,465,390,438,363
+2026-06-20,P002,Keyboard,Accessories,West,937,808,309,416,0
+2026-02-02,P006,Scanner,Office Equipment,South,612,606,201,667,262
+2026-02-14,P007,Tablet,Electronics,East,880,810,396,866,452
+2026-03-15,P007,Tablet,Electronics,South,761,745,50,411,0
+2026-04-30,P007,Tablet,Electronics,West,793,710,385,429,104
+2026-02-13,P008,Headphones,Accessories,North,891,732,311,584,163
+2026-03-27,P005,Printer,Office Equipment,North,727,677,374,734,431
+2026-02-07,P004,Monitor,Electronics,North,888,779,165,303,0
+2026-01-19,P001,Laptop,Electronics,West,450,436,362,886,812
+2026-06-28,P007,Tablet,Electronics,West,844,737,149,835,247
+2026-06-26,P008,Headphones,Accessories,North,609,488,125,771,408
+2026-06-28,P002,Keyboard,Accessories,West,997,914,162,280,0
+2026-04-27,P001,Laptop,Electronics,South,770,602,484,224,106
+2026-06-06,P008,Headphones,Accessories,West,883,780,436,553,209
+2026-04-26,P009,Router,Networking,East,656,499,430,586,517
+2026-05-14,P004,Monitor,Electronics,West,852,737,442,896,601
+2026-03-15,P004,Monitor,Electronics,South,481,448,89,830,471
+2026-02-05,P005,Printer,Office Equipment,South,543,461,326,182,47
+2026-02-24,P004,Monitor,Electronics,North,592,591,128,823,360
+2026-04-17,P007,Tablet,Electronics,North,617,515,327,577,389
+2026-06-28,P004,Monitor,Electronics,North,630,540,444,698,602
+2026-03-18,P010,Camera,Electronics,West,589,534,53,460,0
+2026-06-04,P007,Tablet,Electronics,South,751,716,426,659,369
+2026-01-08,P008,Headphones,Accessories,West,424,365,273,597,505
+2026-04-30,P006,Scanner,Office Equipment,South,884,825,420,269,0
+2026-05-25,P010,Camera,Electronics,North,746,528,251,706,429
+2026-02-16,P002,Keyboard,Accessories,North,858,819,119,572,0
+2026-03-25,P005,Printer,Office Equipment,East,588,494,158,565,229
+2026-05-01,P007,Tablet,Electronics,North,484,445,179,183,0
+2026-01-18,P009,Router,Networking,North,253,221,164,765,708
+2026-06-09,P001,Laptop,Electronics,South,453,368,479,120,231
+2026-05-25,P004,Monitor,Electronics,South,329,290,392,217,319
+2026-02-12,P008,Headphones,Accessories,North,916,772,442,477,147
+2026-03-21,P003,Mouse,Accessories,West,518,389,346,126,83
+2026-06-26,P007,Tablet,Electronics,South,932,753,88,706,41
+2026-06-03,P002,Keyboard,Accessories,North,913,793,485,800,492
+2026-06-19,P010,Camera,Electronics,East,242,213,322,538,647
+2026-04-18,P002,Keyboard,Accessories,West,718,667,224,112,0
+2026-02-09,P002,Keyboard,Accessories,West,643,542,375,570,403
+2026-06-07,P003,Mouse,Accessories,West,951,932,383,376,0
+2026-03-24,P008,Headphones,Accessories,South,646,639,353,374,88
+2026-04-29,P002,Keyboard,Accessories,West,485,454,174,868,588
+2026-02-16,P006,Scanner,Office Equipment,West,229,223,485,432,694
+2026-06-02,P004,Monitor,Electronics,East,563,460,224,386,150
+2026-04-15,P009,Router,Networking,West,210,171,93,347,269
+2026-06-15,P009,Router,Networking,West,976,806,403,587,184
+2026-04-14,P008,Headphones,Accessories,South,217,162,200,326,364
+2026-05-16,P005,Printer,Office Equipment,East,879,803,292,666,155
+2026-06-29,P007,Tablet,Electronics,West,963,955,219,460,0
+2026-02-19,P005,Printer,Office Equipment,East,513,423,168,223,0
+2026-02-17,P002,Keyboard,Accessories,South,960,946,440,806,300
+2026-05-31,P004,Monitor,Electronics,East,956,916,191,841,116
+2026-02-15,P002,Keyboard,Accessories,East,398,315,166,469,320
+2026-01-12,P001,Laptop,Electronics,North,925,920,114,380,0
+2026-05-06,P009,Router,Networking,North,499,381,376,870,865
+2026-04-23,P001,Laptop,Electronics,East,787,622,290,590,258
+2026-01-30,P003,Mouse,Accessories,North,252,208,491,589,872
+2026-06-25,P007,Tablet,Electronics,North,703,510,345,744,579
+2026-01-22,P003,Mouse,Accessories,South,352,349,338,411,400
+2026-06-02,P002,Keyboard,Accessories,South,771,734,263,720,249
+2026-05-31,P009,Router,Networking,West,589,527,276,404,153
+2026-01-26,P005,Printer,Office Equipment,South,782,705,80,724,99
+2026-02-14,P004,Monitor,Electronics,North,470,349,130,345,126
+2026-06-02,P003,Mouse,Accessories,West,202,167,280,805,918
+2026-03-14,P005,Printer,Office Equipment,West,233,192,197,823,828
+2026-05-31,P002,Keyboard,Accessories,South,903,751,185,740,174
+2026-02-08,P007,Tablet,Electronics,East,317,290,165,763,638
+2026-06-02,P003,Mouse,Accessories,East,273,198,134,414,350
+2026-06-29,P008,Headphones,Accessories,West,327,287,402,411,526
+2026-01-21,P005,Printer,Office Equipment,North,712,636,302,548,214
+2026-01-07,P007,Tablet,Electronics,North,952,831,359,356,0
+2026-03-10,P004,Monitor,Electronics,North,890,633,441,788,596
+2026-03-13,P003,Mouse,Accessories,South,681,608,383,552,327
+2026-01-24,P010,Camera,Electronics,West,646,614,466,603,455
+2026-01-27,P006,Scanner,Office Equipment,South,618,517,214,786,483
+2026-06-19,P006,Scanner,Office Equipment,West,621,611,303,395,87
+2026-03-06,P009,Router,Networking,East,237,223,95,422,294
+2026-01-01,P002,Keyboard,Accessories,West,991,899,492,626,219
+2026-06-09,P007,Tablet,Electronics,West,255,202,315,470,583
+2026-05-21,P008,Headphones,Accessories,South,978,710,154,373,0
+2026-01-08,P005,Printer,Office Equipment,South,648,631,298,224,0
+2026-04-15,P003,Mouse,Accessories,North,518,503,57,665,219
+2026-02-09,P004,Monitor,Electronics,West,316,280,110,763,593
+2026-05-04,P005,Printer,Office Equipment,West,721,684,189,525,30
+2026-02-18,P004,Monitor,Electronics,South,667,607,124,492,9
+2026-03-10,P002,Keyboard,Accessories,North,482,443,224,619,400
+2026-05-29,P005,Printer,Office Equipment,West,943,812,478,701,367
+2026-03-27,P003,Mouse,Accessories,West,657,596,297,453,154
+2026-05-27,P008,Headphones,Accessories,West,529,418,407,344,333
+2026-05-02,P004,Monitor,Electronics,West,994,905,72,425,0
+2026-02-02,P007,Tablet,Electronics,East,879,692,303,137,0
+2026-01-04,P002,Keyboard,Accessories,South,650,479,319,567,407
+2026-03-09,P007,Tablet,Electronics,East,870,688,88,580,0
+2026-03-26,P010,Camera,Electronics,West,909,839,382,182,0
+2026-05-19,P006,Scanner,Office Equipment,North,841,771,438,599,266
+2026-03-15,P010,Camera,Electronics,South,270,219,373,800,954
+2026-06-30,P002,Keyboard,Accessories,North,644,475,439,748,712
+2026-01-12,P008,Headphones,Accessories,East,370,347,203,129,0
+2026-02-07,P001,Laptop,Electronics,South,500,441,241,541,341
+2026-02-13,P009,Router,Networking,South,621,578,399,284,105
+2026-06-24,P002,Keyboard,Accessories,South,824,798,245,734,181
+2026-06-13,P008,Headphones,Accessories,East,797,593,168,572,147
+2026-03-15,P008,Headphones,Accessories,South,461,324,461,576,713
+2026-06-13,P002,Keyboard,Accessories,West,652,544,350,406,212
+2026-05-04,P005,Printer,Office Equipment,North,667,543,151,493,101
+2026-03-17,P004,Monitor,Electronics,East,590,559,233,688,362
+2026-05-25,P001,Laptop,Electronics,North,874,813,190,108,0
+2026-02-28,P010,Camera,Electronics,East,963,928,476,393,0
+2026-06-23,P004,Monitor,Electronics,South,851,692,367,356,31
+2026-04-23,P002,Keyboard,Accessories,North,842,754,70,416,0
+2026-03-25,P010,Camera,Electronics,West,573,434,96,402,64
+2026-04-04,P003,Mouse,Accessories,East,405,299,452,652,805
+2026-03-28,P003,Mouse,Accessories,North,463,447,462,402,417
+2026-06-23,P008,Headphones,Accessories,West,277,211,436,331,556
+2026-01-04,P009,Router,Networking,East,574,424,454,504,534
+2026-06-22,P009,Router,Networking,East,326,286,238,788,740
+2026-06-22,P010,Camera,Electronics,South,590,576,240,210,0
+2026-06-15,P008,Headphones,Accessories,North,225,198,362,326,490
+2026-01-30,P008,Headphones,Accessories,South,917,795,382,518,105
+2026-01-25,P001,Laptop,Electronics,South,238,204,302,218,316
+2026-06-21,P009,Router,Networking,West,338,285,282,479,476
+2026-01-26,P010,Camera,Electronics,West,960,751,262,770,281
+2026-04-05,P010,Camera,Electronics,South,617,502,66,806,370
+2026-01-26,P008,Headphones,Accessories,East,655,518,487,471,440
+2026-03-12,P009,Router,Networking,South,860,785,81,507,0
+2026-06-14,P002,Keyboard,Accessories,North,665,488,389,317,218
+2026-02-22,P001,Laptop,Electronics,North,541,440,114,678,352
+2026-03-26,P009,Router,Networking,South,412,363,160,338,135
