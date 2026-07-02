@@ -6,19 +6,8 @@ The dashboard enables users to monitor production efficiency, compare forecast d
 2)Dashboard Preview:
 <img width="881" height="786" alt="image" src="https://github.com/user-attachments/assets/0451ad64-63bf-4455-aea3-9784a7f266f8" />
 
-3)Business Problem:
+4)Tools used:
 
-Manufacturing organizations need to monitor production and inventory to ensure customer demand is met while avoiding overproduction and stock shortages.
-
-This dashboard provides decision-makers with:
-
-Production vs Forecast Demand analysis
-Inventory health monitoring
-Regional sales performance
-Product-wise sales analysis
-Interactive filtering for quick insights
-
-4)Tools Used
 Microsoft Excel
 Power Query
 Pivot Tables
