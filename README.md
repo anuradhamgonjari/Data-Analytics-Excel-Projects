@@ -8,49 +8,49 @@ The dashboard enables users to monitor production efficiency, compare forecast d
 
 4)Tools used:
 
-Microsoft Excel
-Power Query
-Pivot Tables
-Pivot Charts
-Slicers
-Excel Formulas
+Microsoft Excel,
+Power Query,
+Pivot Tables,
+Pivot Charts,
+Slicers,
+Excel Formulas,
 Conditional Formatting
 
 5)Dataset
 
 The dataset contains production and sales information, including:
 
-Date
-SKU
-Product Name
-Category
-Region
-Forecast Demand
-Actual Sales
-Opening Stock
-Production Quantity
+Date,
+SKU,
+Product Name,
+Category,
+Region,
+Forecast Demand,
+Actual Sales,
+Opening Stock,
+Production Quantity,
 Closing Stock
 
 6)Dashboard Features:
 
 KPI Cards:
 
-Total Demand
-Total Sales
-Total Production
+Total Demand,
+Total Sales,
+Total Production,
 Low Stock Count
 
 Visualizations:
 
-Production vs Forecast Demand
-Inventory Status Distribution
-Region Performance
+Production vs Forecast Demand,
+Inventory Status Distribution,
+Region Performance,
 Product Performance Analysis
 
 Interactive Filters:
 
-Region
-Product Name
+Region,
+Product Name,
 Category
 
 7)Key Insights:
@@ -62,12 +62,12 @@ Product performance varies significantly across categories.
 
 8)Skills Demonstrated:
 
-Data Cleaning using Power Query
-Data Transformation
-Pivot Table Analysis
-Interactive Dashboard Design
-Business KPI Reporting
-Inventory Analysis
-Production Planning Analysis
+Data Cleaning using Power Query,
+Data Transformation,
+Pivot Table Analysis,
+Interactive Dashboard Design,
+Business KPI Reporting,
+Inventory Analysis,
+Production Planning Analysis,
 Data Visualization
 
